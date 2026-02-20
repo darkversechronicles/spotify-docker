@@ -1,4 +1,4 @@
-Para disco duro externo: 
+**Para disco duro externo: **
 
 
 1. Conecta el disco duro externo por USB.
