@@ -1,28 +1,28 @@
 Para disco duro externo: 
 
 
-Conecta el disco duro externo por USB.
+1. Conecta el disco duro externo por USB.
 
-Abre Explorador de Archivos → Este equipo y mira la letra del disco (ej: E:).
+2. Abre Explorador de Archivos → Este equipo y mira la letra del disco (ej: E:).
 
-Abre el script y cambia esta línea para que sea esa letra:
+3. Abre el script y cambia esta línea para que sea esa letra:
 
-$Drive = "E:"
+ejemplo:      $Drive = "E:"
 
-Abre Docker Desktop y asegúrate que Docker tenga acceso al disco externo:
+4. Abre Docker Desktop y asegúrate que Docker tenga acceso al disco externo:
 
-Settings/Configuración → Resources → File Sharing
+     -Settings/Configuración → Resources → File Sharing
 
-Marca/permite el disco (ej: E:\)
+     -Marca/permite el disco (ej: E:\)
 
-Aplica los cambios y reinicia Docker si te lo pide
+     -Aplica los cambios y reinicia Docker si te lo pide
 
-Abre PowerShell y ejecuta el script.
+5. Abre PowerShell y ejecuta el script.
 
-Abre Navidrome en el navegador:
+6. Abre Navidrome en el navegador:
 
-http://localhost:4533
+         http://localhost:4533
 
-Cuando quieras añadir música:
+7. Cuando quieras añadir música:
 
-Copia tu música a: E:\Music (o la letra que tengas)
+       Copia tu música a: E:\Music (o la letra que tengas)
