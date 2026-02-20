@@ -5,9 +5,9 @@
 
 2. Abre Explorador de Archivos → Este equipo y mira la letra del disco (ej: E:).
 
-3. Abre el script y cambia esta línea para que sea esa letra:
+3. Abre el script y cambia esta línea en el script para que sea esa letra:
 
-ejemplo:      $Drive = "E:"
+        $Drive = "E:"
 
 4. Abre Docker Desktop y asegúrate que Docker tenga acceso al disco externo:
 
